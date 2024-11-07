@@ -76,7 +76,8 @@ public class MainView {
             System.out.println("============================");
         }
 
-        System.out.print("\ntotal biaya : " + MainController.getTotal(Main.listTiket));
+        System.out.print("total biaya : " + MainController.getTotal(Main.listTiket));
+        System.out.println("============================");
 
     }
 }
